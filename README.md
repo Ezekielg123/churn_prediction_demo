@@ -22,3 +22,7 @@ Learning / Demo Project
 ```bash
 pip install numpy pandas scikit-learn matplotlib
 python churn_model.py
+
+
+## Author
+Ezekiel
